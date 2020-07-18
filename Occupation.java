@@ -1,0 +1,1 @@
+enum Occupation{MANAGER,SALESMAN,ENGINEER}
